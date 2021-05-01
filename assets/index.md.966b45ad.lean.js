@@ -1,0 +1,1 @@
+import{o as i,c as l,a}from"./app.7f77d963.js";const e='{"title":"个人简历","description":"","frontmatter":{"sidebar":false},"relativePath":"index.md","lastUpdated":1619853081636}',r={},t=a('',2);r.render=function(a,e,r,o,s,n){return i(),l("div",null,[t])};export default r;export{e as __pageData};
