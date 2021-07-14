@@ -1,1 +1,0 @@
-import{o as i,c as l,a as e}from"./app.7f77d963.js";const a='{"title":"Home","description":"","frontmatter":{"home":true,"heroImage":"/home.webp"},"relativePath":"index.md","lastUpdated":1619857422809}',r={},o=e('',2);r.render=function(e,a,r,t,n,s){return i(),l("div",null,[o])};export default r;export{a as __pageData};
